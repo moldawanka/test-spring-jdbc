@@ -15,6 +15,7 @@ import de.rahn.jdbc.call.entity.User;
 /**
  * Mapping zwischen einer {@link Struct} und einem {@link User}.
  * @author Frank W. Rahn
+ * modified by Jens
  */
 @Component
 public class UserMapper extends SqlParameterMapper<User, Struct> {
