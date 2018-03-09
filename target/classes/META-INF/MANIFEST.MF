@@ -1,0 +1,37 @@
+Manifest-Version: 1.0
+Built-By: Jens
+Build-Jdk: 9.0.1
+Class-Path: ${env.HOME}/.m2/repository/org/springframework/spring-jdbc
+ /3.1.2.RELEASE/spring-jdbc-3.1.2.RELEASE.jar ${env.HOME}/.m2/reposito
+ ry/org/springframework/spring-beans/3.1.2.RELEASE/spring-beans-3.1.2.
+ RELEASE.jar ${env.HOME}/.m2/repository/org/springframework/spring-cor
+ e/3.1.2.RELEASE/spring-core-3.1.2.RELEASE.jar ${env.HOME}/.m2/reposit
+ ory/org/springframework/spring-asm/3.1.2.RELEASE/spring-asm-3.1.2.REL
+ EASE.jar ${env.HOME}/.m2/repository/org/springframework/spring-tx/3.1
+ .2.RELEASE/spring-tx-3.1.2.RELEASE.jar ${env.HOME}/.m2/repository/aop
+ alliance/aopalliance/1.0/aopalliance-1.0.jar ${env.HOME}/.m2/reposito
+ ry/org/springframework/spring-aop/3.1.2.RELEASE/spring-aop-3.1.2.RELE
+ ASE.jar ${env.HOME}/.m2/repository/org/springframework/spring-context
+ /3.1.2.RELEASE/spring-context-3.1.2.RELEASE.jar ${env.HOME}/.m2/repos
+ itory/org/springframework/spring-expression/3.1.2.RELEASE/spring-expr
+ ession-3.1.2.RELEASE.jar ${env.HOME}/.m2/repository/org/aspectj/aspec
+ tjweaver/1.7.0/aspectjweaver-1.7.0.jar ${env.HOME}/.m2/repository/org
+ /aspectj/aspectjrt/1.7.0/aspectjrt-1.7.0.jar ${env.HOME}/.m2/reposito
+ ry/cglib/cglib/2.2.2/cglib-2.2.2.jar ${env.HOME}/.m2/repository/asm/a
+ sm/3.3.1/asm-3.3.1.jar ${env.HOME}/.m2/repository/org/slf4j/jcl-over-
+ slf4j/1.7.1/jcl-over-slf4j-1.7.1.jar ${env.HOME}/.m2/repository/org/s
+ lf4j/slf4j-api/1.7.1/slf4j-api-1.7.1.jar ${env.HOME}/.m2/repository/o
+ rg/slf4j/slf4j-log4j12/1.7.1/slf4j-log4j12-1.7.1.jar ${env.HOME}/.m2/
+ repository/log4j/log4j/1.2.17/log4j-1.2.17.jar ${env.HOME}/.m2/reposi
+ tory/postgresql/postgresql/9.1-901-1.jdbc4/postgresql-9.1-901-1.jdbc4
+ .jar
+Specification-Title: Test Spring JDBC
+Specification-Version: 1.0.0-SNAPSHOT
+Specification-Vendor: Frank W. Rahn
+Implementation-Title: Test Spring JDBC
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor-Id: test-spring
+Implementation-Vendor: Frank W. Rahn
+Main-Class: Starter
+Created-By: Maven Integration for Eclipse
+
